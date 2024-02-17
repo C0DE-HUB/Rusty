@@ -1,6 +1,5 @@
-workspace = { members = ["sln"] }
 [package]
-name = "hello-rust"
+name = "Rusty"
 version = "0.1.0"
 edition = "2021"
 
